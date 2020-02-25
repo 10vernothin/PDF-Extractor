@@ -23,4 +23,4 @@ Disclaimer:
 
 Everything in the python_packages folder is not mine.
 
-Execution: run /docs/python/pdf2docxAndy.py
+Execution: run pdf2docxAndy.py
